@@ -1,0 +1,95 @@
+body {
+	margin: 0;
+	padding: 0;
+	font: 12px/1.4em "Lucida Grande", Verdana, sans-serif;
+	color: #333;
+	overflow-y: scroll;
+	text-rendering: optimizeLegibility;
+	background-color: #F0FFD1;
+}
+
+div.DivTitle
+{
+    color: #FF9966;
+    font-size:26px;
+    font-weight: bolder;  
+    margin-top:10px; 
+}
+div.DivSubTitle
+{
+	color:#99CCFF;
+	font-size:14px;
+	font-weight:bold;
+	margin-top:24px;
+}
+
+div.DivSubSubTitle
+{
+	color:	#99CCFF;
+	font-size:14px;
+	margin-top:8px;
+	
+}
+
+div.DivSubSubTitle1
+{
+	color:	gray;
+	font-size:14px;
+	font-weight:bold;
+	margin-top:16px;
+	
+}
+
+
+div.InnerPage
+{
+	background-color: white;
+	height:500px;
+	width:750px;
+	margin-top:50px;
+	margin-left:135px;
+	text-align: center;
+	overflow: scroll;
+}
+div.DivTable
+{
+	margin-left:280px;
+}
+div.DivTitleIndex
+{
+	color: #FF9966;
+    font-size:26px;
+    font-weight: bolder;
+	margin-top:180px;
+}
+
+div.DivError
+{
+	color:	#FF9966;
+	font-size:18px;
+	margin-top:30px;
+	font-weight:bold;
+}
+
+div.Image
+{
+	margin-top:15px;
+	margin-left:25px;
+}
+
+div.DivBotton
+{
+	margin-top:30px;
+	font-size:18px;
+}
+.txtInput
+{
+	height:30px;
+	width:280px;	
+}
+.subInput
+{
+	height:50px;
+	width:80px;
+	backbround: #FF9966; 
+}
